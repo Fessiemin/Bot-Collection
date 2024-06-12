@@ -1,5 +1,5 @@
 # **Whatsapp Web Tag-All Bot**
-
+cd Whatsapp-bot/Tag-all-bot
 This Python script utilizes the Selenium library to automate the process of tagging all members of a WhatsApp group. It can be used to send a message to all members of a group at once.
 
 ## Installation
